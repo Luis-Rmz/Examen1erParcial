@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{217737A7-551A-417B-87F9-EBDDE2A08546}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Examen1erParcial/ViewController.cs">
+    <Files>
+      <File FileName="Examen1erParcial/ViewController.cs" Line="171" Column="1" />
+      <File FileName="Examen1erParcial/Clases/Operaciones.cs" Line="13" Column="27" />
+      <File FileName="Examen1erParcial/Main.cs" Line="12" Column="1" />
+      <File FileName="Examen1erParcial/Settings.bundle/Root.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Examen1erParcial PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.85673C0F-5B75-48B9-A4D0-AFE4601C7827" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Examen1erParcial>
+  <MultiItemStartupConfigurations />
+</Properties>

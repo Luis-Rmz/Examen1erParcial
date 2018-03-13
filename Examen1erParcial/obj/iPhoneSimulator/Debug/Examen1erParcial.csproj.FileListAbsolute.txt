@@ -1,0 +1,10 @@
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/bin/iPhoneSimulator/Debug/Examen1erParcial.exe
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/bin/iPhoneSimulator/Debug/Examen1erParcial.pdb
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/obj/iPhoneSimulator/Debug/Examen1erParcial.csproj.CoreCompileInputs.cache
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/obj/iPhoneSimulator/Debug/Examen1erParcial.exe
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/obj/iPhoneSimulator/Debug/Examen1erParcial.pdb
+/Users/issc611/Projects/Examen1erParcial/Examen1erParcial/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Settings.bundle/Root.plist
